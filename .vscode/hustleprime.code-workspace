@@ -1,0 +1,57 @@
+{
+  "folders": [
+    {
+      "path": ".."
+    }
+  ],
+  "settings": {
+    "files.associations": {
+      "*.schema": "sql",
+      "*.ds": "sql"
+    },
+    "editor.autoIndent": "full",
+    "editor.insertSpaces": true,
+    "editor.trimAutoWhitespace": true,
+    "editor.tabSize": 2,
+    "editor.useTabStops": true,
+    "editor.stickyTabStops": true,
+    "editor.detectIndentation": true,
+    "editor.unusualLineTerminators": "auto",
+    "editor.linkedEditing": true,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "all",
+    "editor.showFoldingControls": "always",
+    "editor.comments.ignoreEmptyLines": false,
+    "editor.comments.insertSpace": true,
+    "pandoc.htmlOptString": "-s -t html5",
+    "material-icon-theme.opacity": 0.75,
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.activeIconPack": "none",
+    "material-icon-theme.files.associations": {
+      "schema": "sql",
+    },
+    "material-icon-theme.folders.color": "#6192A9",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 80,
+    "editor.minimap.maxColumn": 80,
+    "files.encoding": "utf8",
+    "files.eol": "\n",
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "html.format.endWithNewline": true,
+    "html.format.indentInnerHtml": true,
+    "html.format.indentHandlebars": true,
+    "debug.javascript.autoAttachFilter": "onlyWithFlag",
+    "npm.enableRunFromFolder": true,
+    "material-icon-theme.languages.associations": {
+      "schema": "sql"
+    },
+    "material-icon-theme.folders.associations": {
+      "uranus": "./../../icons/folder-discord"
+    },
+    "npm.packageManager": "yarn",
+    "npm.autoDetect": "on",
+    "npm.scriptExplorerAction": "open",
+  }
+}

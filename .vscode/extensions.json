@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "pkief.material-icon-theme",
+    "kzvi.pandoc-markdown-preview",
+    "svelte.svelte-vscode",
+    "dougfinke.vscode-pandoc",
+    "coenraads.bracket-pair-colorizer-2",
+    "humao.rest-client"
+  ]
+}
